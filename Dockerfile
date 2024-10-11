@@ -1,2 +1,1 @@
-FROM voidlinux:voldlinux
-
+FROM ubuntu:latest
